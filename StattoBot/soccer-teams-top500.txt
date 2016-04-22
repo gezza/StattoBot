@@ -1,0 +1,500 @@
+﻿1860 munich
+aab
+aalen
+aalesunds
+aberdeen
+ac horsens
+ac milan
+academica
+accrington s
+admira wacker
+ado den haag
+aek
+agf
+aik
+ajax
+alcorcon
+almeria
+america mg
+amkar
+anderlecht
+angers
+antalyaspor
+anzhi makhachkala
+argentina
+argentinos juniors
+arsenal
+ascoli
+asteras tripolis
+aston villa
+atalanta
+ath bilbao
+atl madrid
+atletico go
+atletico mg
+atletico nacional
+atletico pr
+atromitos
+augsburg
+austria vienna
+auxerre
+avai
+az alkmaar
+b munich
+bahia
+banfield
+barcelona
+bari
+barnsley
+bate borisov
+belenenses
+benfica
+besiktas
+betis
+birmingham
+blackburn
+blackpool
+boca juniors
+bochum
+bohemians
+bologna
+bolton
+bordeaux
+botafogo rj
+bournemouth
+bradford
+braga
+bragantino sp
+brann
+braunschweig
+brazil
+breda
+brentford
+brescia
+brest
+brighton
+bristol city
+brondby
+burnley
+bursaspor
+burton
+bury
+c palace
+caen
+cagliari
+cambuur
+cardiff
+carlisle
+catania
+ceara
+celta vigo
+celtic
+cercle brugge
+cesena
+cf america
+cfr cluj
+charleroi
+charlton
+chelsea
+chesterfield
+chicago fire
+chievo
+cittadella
+clermont
+club brugge
+colchester
+colo colo
+colon
+columbus
+cordoba
+corinthians
+coritiba
+c-osaka
+cottbus
+coventry
+cracovia krakow
+crawley town
+crewe
+criciuma
+crotone
+cruz azul
+cruzeiro
+cska moscow
+dallas
+de graafschap
+debrecen
+deportivo
+deportivo cali
+derby
+derry
+dijon
+dinamo bucharest
+dinamo kiev
+dinamo moscow
+dinamo zagreb
+djurgardens
+dnipro
+doncaster
+dordrecht
+dortmund
+drogheda
+duisburg
+dundalk
+dundee utd
+eibar
+eintracht frankfurt
+elche
+elfsborg
+empoli
+england
+erzgebirge
+esbjerg
+eskisehirspor
+espanyol
+estac troyes
+estoril
+estudiantes
+everton
+evian tg
+excelsior
+exeter
+fc basel
+fc copenhagen
+fc inter
+fc koln
+fc midtjylland
+fc tokyo
+fc zurich
+fenerbahce
+ferencvaros
+feyenoord
+figueirense
+fiorentina
+fk jablonec
+fk krasnodar
+flamengo
+fluminense
+fortuna dusseldorf
+freiburg
+fsv frankfurt
+fulham
+g furth
+galatasaray
+gaziantepspor
+gefle
+genclerbirligi
+genk
+genoa
+gent
+germany
+getafe
+gijon
+gil vicente
+gillingham
+girona
+go ahead eagles
+godoy cruz
+goias
+gornik zabrze
+g-osaka
+granada
+gremio
+groningen
+guadalajara
+guimaraes
+guingamp
+h berlin
+hacken
+hajduk split
+halmstads
+hamburg
+hammarby
+hannover
+hartlepool
+hearts
+heerenveen
+helsingborgs
+heracles
+hercules
+hertha berlin
+hibernian
+hiroshima
+hjk helsinki
+hoffenheim
+honka
+houston dynamo
+huddersfield
+hull
+ifk goteborg
+independiente
+ingolstadt
+inter
+internacional
+inverness ct
+ipswich
+italy
+iwata
+jaro
+juventus
+kaiserslautern
+kalmar ff
+kansas city
+karlsruhe
+kashima
+kashiwa
+kasimpasa
+kawasaki
+kayserispor
+kilmarnock
+kobe
+kuban krasnodar
+kups
+kv kortrijk
+kv mechelen
+lanus
+las palmas
+lazio
+le havre
+lecce
+lech poznan
+lechia gdansk
+leeds
+legia warsaw
+leicester
+leixoes
+lens
+levante
+leverkusen
+levski sofia
+lierse
+lille
+lillestrom
+liverpool
+livorno
+lokeren
+lokomotiv
+lorient
+los angeles
+ludogorets
+luton
+luzern
+lyngby
+lyon
+mainz
+malaga
+mallorca
+malmo ff
+man city
+man utd
+maritimo
+marseille
+mattersburg
+metz
+mgladbach
+middlesbrough
+millonarios
+millwall
+mk dons
+modena
+molde
+monaco
+monterrey
+montpellier
+motherwell
+nacional
+nagoya
+nancy
+nantes
+napoli
+nautico
+nec nijmegen
+netherlands
+new england
+new york red bulls
+newcastle
+newells
+nice
+niigata
+norrkoping
+norwich
+nottm forest
+notts co
+novara
+numancia
+nurnberg
+ob
+oldham
+olhanense
+olympiakos
+omiya
+orebro
+osasuna
+osnabruck
+otelul galati
+oxford utd
+pachuca
+pacos ferreira
+paderborn
+palermo
+palmeiras
+panathinaikos
+pandurii
+panionios
+paok
+parana
+paris st-g
+parma
+pescara
+peterborough
+plymouth
+plzen
+ponte preta
+port vale
+porto
+portsmouth
+portuguesa sp
+preston
+psv
+pumas unam
+qpr
+racing club
+randers
+rangers
+rapid vienna
+rayo vallecano
+reading
+real madrid
+real salt lake
+red bull salzburg
+reggina
+reims
+rennes
+rio ave
+river plate
+rochdale
+roda jc
+roma
+rosenborg
+rostov
+rotherham
+rubin kazan
+ruch chorzow
+sampdoria
+san lorenzo
+santa fe
+santander
+santos
+santos laguna
+sao paulo
+sassuolo
+schalke
+scr altach
+scunthorpe
+seattle
+sendai
+setubal
+sevilla
+shakhtar
+shamrock rovers
+sheff utd
+sheff wed
+shimizu
+shrewsbury
+siena
+silkeborg
+sion
+sivasspor
+slask wroclaw
+slavia prague
+sligo rovers
+slovan liberec
+sochaux
+sociedad
+sonderjyske
+southampton
+southend
+sp lisbon
+spain
+sparta prague
+sparta rotterdam
+spartak moscow
+sport recife
+st etienne
+st gallen
+st johnstone
+st mirren
+st patricks
+st pauli
+stabaek
+standard
+start
+steaua bucharest
+stevenage
+stoke
+stromsgodset
+sturm graz
+stuttgart
+sunderland
+sv ried
+sv sandhausen
+swansea
+swindon
+tenerife
+terek grozni
+thun
+tigre
+tigres
+tolima
+toluca
+torino
+toronto fc
+tottenham
+toulouse
+tours
+trabzonspor
+tranmere
+tromso
+twente
+udinese
+union berlin
+union espanola
+universidad de chile
+urawa
+utrecht
+valencia
+valenciennes
+valerenga
+valladolid
+vasco da gama
+velez
+verona
+vicenza
+viking
+villarreal
+vitesse
+vitoria ba
+volendam
+vps
+vvv
+w bremen
+waalwijk
+walsall
+watford
+west brom
+west ham
+westerlo
+wigan
+willem ii
+wisla krakow
+wolfsburg
+wolves
+wycombe
+xanthi
+yeovil
+yokohama fm
+young boys
+zaglebie lubin
+zaragoza
+zenit st petersburg
+zulte-waregem
+zwolle
